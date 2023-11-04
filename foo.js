@@ -1,5 +1,5 @@
-// fun.js
-function fun(...args) {
+// foo.js
+function foo(...args) {
   switch (args.length) {
     case 0:
       throw new Error("Expected at least 1 param");
@@ -15,4 +15,4 @@ function fun(...args) {
   }
 }
 
-module.exports = fun;
+module.exports = foo;

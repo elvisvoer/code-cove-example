@@ -2,9 +2,9 @@
   "name": "code-cove-example",
   "version": "1.0.0",
   "description": "",
-  "main": "fun.js",
+  "main": "foo.js",
   "scripts": {
-    "start": "node fun.js",
+    "start": "node foo.js",
     "test": "jest"
   },
   "author": "Elvis Adomnica",
